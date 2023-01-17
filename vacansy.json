@@ -1,0 +1,5510 @@
+[
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "",
+        "salary": "",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "",
+        "salary": "",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    },
+    {
+        "name": "Разработчик исследователь по машинному обучению (C# / Python)",
+        "salary": "от 40000 до 50000 руб. на руки",
+        "tags": [
+            "Линейная алгебра",
+            "Алгоритмы и структуры данных",
+            "Математический анализ",
+            "Математическое программирование",
+            "Математическая статистика"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75669924"
+    },
+    {
+        "name": "Middle backend Python разработчик",
+        "salary": "до 170000 руб. на руки",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75789802"
+    },
+    {
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Linux",
+            "PostgreSQL",
+            "Flask",
+            "Redis",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/46823861"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75663218"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Redis",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде",
+            "Docker"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75722315"
+    },
+    {
+        "name": "Специалист по машинному обучению в Поиск (команда подсказок)",
+        "salary": "з/п не указана",
+        "tags": [
+            "C++",
+            "Алгоритмы и структуры данных",
+            "Machine learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75866377"
+    },
+    {
+        "name": "Python разработчик (Северсталь Диджитал)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Linux",
+            "Flask",
+            "SQL",
+            "kafka",
+            "Docker",
+            "ООП",
+            "Машинное обучение",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74381816"
+    },
+    {
+        "name": "Python Developer (Middle)",
+        "salary": "от 80000 до 150000 руб. на руки",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75723741"
+    },
+    {
+        "name": "Программист (С++ & Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Английский— B1 — Средний"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/74411421"
+    },
+    {
+        "name": "Стажер DevOps",
+        "salary": "з/п не указана",
+        "tags": "",
+        "link on vacancy": "https://spb.hh.ru/vacancy/75791931"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "от 60000 руб. на руки",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Git",
+            "SOAP",
+            "REST",
+            "Qt",
+            "Unix"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75553023"
+    },
+    {
+        "name": "Программист-аналитик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "pentest",
+            "Ruby",
+            "Shell Scripting",
+            "Английский— A1 — Начальный"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75775240"
+    },
+    {
+        "name": "Developer Python",
+        "salary": "от 130000 руб. на руки",
+        "tags": [
+            "С++",
+            "GUI",
+            "Python"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/67411307"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Django Framework",
+            "SQL",
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/73503625"
+    },
+    {
+        "name": "Программист-математик",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Математическая статистика",
+            "Математический анализ",
+            "C/C++",
+            "Математическое моделирование"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68235157"
+    },
+    {
+        "name": "Python developer",
+        "salary": "з/п не указана",
+        "tags": [
+            "Django Framework",
+            "Python",
+            "PostgreSQL"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75629393"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary": "от 180000 до 200000 руб. на руки",
+        "tags": [
+            "Ansible",
+            "Docker",
+            "Linux",
+            "Nginx",
+            "SQL",
+            "MySQL",
+            "ClickHouse",
+            "Bash",
+            "Python",
+            "Gitlab"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75836705"
+    },
+    {
+        "name": "Server Programmer (Python)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "C++",
+            "Разработка компьютерных Игр"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/68381368"
+    },
+    {
+        "name": "Computer Vision/Machine Learning Engineer",
+        "salary": "от 46500 до 46500 руб. на руки",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "Нейронные сети",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75658434"
+    },
+    {
+        "name": "Python Программист (игровой бот)",
+        "salary": "з/п не указана",
+        "tags": [
+            "Python",
+            "Git",
+            "Atlassian Jira",
+            "Работа в команде"
+        ],
+        "link on vacancy": "https://spb.hh.ru/vacancy/75640339"
+    }
+]
