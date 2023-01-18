@@ -19,9 +19,26 @@ def handler_lst():
 
 def count_tags():
     count_tag = Counter(handler_lst())
-    print(count_tag) # нужно отсортировать по значению
+    return count_tag
+
+
+def top_tags():
+    top_tag_lst =[]
+    for i,v in count_tags().items():
+        top_tag_lst.append((v,i))
+
+    result = {}
+    top_10tags = (sorted(top_tag_lst, reverse=True)[:11])
+    for d in top_10tags:
+        result[d[1]] = d[0]
+    with open('top_tags.txt', 'w') as file:
+        for key, value in result.items():
+            file.write(f'{key} => {value}\n')
+
+
 
 
 from_json_to_list()
 handler_lst()
 count_tags()
+top_tags()
