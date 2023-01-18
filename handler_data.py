@@ -36,9 +36,8 @@ def top_tags():
             file.write(f'{key} => {value}\n')
 
 
-
-
-from_json_to_list()
-handler_lst()
-count_tags()
-top_tags()
+if __name__ == '__main__':
+    from_json_to_list()
+    handler_lst()
+    count_tags()
+    top_tags()
